@@ -1,0 +1,21 @@
+h2 {
+  background-color: blanchedalmond;
+  text-align: center;
+  margin: 0;
+}
+div {
+  text-decoration: none;
+  color: black;
+  background-color: blanchedalmond;
+  margin: 0;
+}
+.link {
+  text-align: center;
+}
+.hi {
+  background-color: rgb(73, 77, 81);
+  padding: 1vw;
+  text-align: center;
+}
+.container {
+}
